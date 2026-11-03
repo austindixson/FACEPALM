@@ -62,8 +62,8 @@ python3 scripts/facepalm.py --minutes 5 --json
 ## Related skills
 
 - **[Agent Swarm](https://github.com/austindixson/agent-swarm-openclaw-skill)** - Can automatically invoke FACEPALM when troubleshooting loops are detected
-- **[gateway-guard](https://github.com/RuneweaverStudios/gateway-guard)** - Keeps gateway auth stable
-- **[what-just-happened](https://github.com/RuneweaverStudios/what-just-happened)** - Summarizes gateway restarts
+- **[gateway-guard](https://github.com/austindixson/gateway-guard)** - Keeps gateway auth stable
+- **[what-just-happened](https://github.com/austindixson/what-just-happened)** - Summarizes gateway restarts
 
 ## License
 
