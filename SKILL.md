@@ -116,5 +116,5 @@ Model: openrouter/openai/gpt-4o
 
 ## Links
 
-- **GitHub:** https://github.com/RuneweaverStudios/FACEPALM
-- **Related:** [Agent Swarm](https://github.com/RuneweaverStudios/agent-swarm-openclaw-skill) - Can automatically invoke FACEPALM
+- **GitHub:** https://github.com/austindixson/FACEPALM
+- **Related:** [Agent Swarm](https://github.com/austindixson/agent-swarm-openclaw-skill) - Can automatically invoke FACEPALM

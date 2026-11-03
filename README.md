@@ -6,7 +6,7 @@
 
 ```bash
 # Install from GitHub
-git clone https://github.com/RuneweaverStudios/FACEPALM.git
+git clone https://github.com/austindixson/FACEPALM.git
 cp -r FACEPALM ~/.openclaw/workspace/skills/
 
 # Or install via ClawHub
@@ -61,7 +61,7 @@ python3 scripts/facepalm.py --minutes 5 --json
 
 ## Related skills
 
-- **[Agent Swarm](https://github.com/RuneweaverStudios/agent-swarm-openclaw-skill)** - Can automatically invoke FACEPALM when troubleshooting loops are detected
+- **[Agent Swarm](https://github.com/austindixson/agent-swarm-openclaw-skill)** - Can automatically invoke FACEPALM when troubleshooting loops are detected
 - **[gateway-guard](https://github.com/RuneweaverStudios/gateway-guard)** - Keeps gateway auth stable
 - **[what-just-happened](https://github.com/RuneweaverStudios/what-just-happened)** - Summarizes gateway restarts
 
